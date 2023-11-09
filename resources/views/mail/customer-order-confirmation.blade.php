@@ -1,0 +1,1 @@
+@extends('mail.partials.base-order-confirmation')
